@@ -1,3 +1,8 @@
+# additional things to ignore
+reveal.js
+data
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
